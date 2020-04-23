@@ -1,0 +1,4 @@
+[07-Jul-2016 12:14:23 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'sayaitoe'@'localhost' (using password: YES) in /home/sayaitoe/public_html/crypton/dbconnect.php on line 9
+[07-Jul-2016 12:18:38 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/sayaitoe/public_html/technosouls.tk/crypton/register_function.php on line 93
+[14-Aug-2016 16:55:50 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sayaitoe/public_html/technosouls.tk/crypton/login.php:1) in /home/sayaitoe/public_html/technosouls.tk/crypton/login.php on line 68
+[14-Aug-2016 17:02:51 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sayaitoe/public_html/technosouls.tk/crypton/login.php:1) in /home/sayaitoe/public_html/technosouls.tk/crypton/login.php on line 41
